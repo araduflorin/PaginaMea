@@ -1,0 +1,39 @@
+h1 {
+    color: white;
+    background-color: #0b6d1c;
+    margin: -8px;
+    font-family: Arial , Verdana, sans-serif;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+}
+
+form  {
+    float:right;
+    width:1900px;
+    text-align: center;
+    margin-top: 50px;
+    #display: inline-block;
+    #float: center;
+    #width: 500px;
+    #max-width: 100%;
+    #label-align: center;
+    #vertical-align: top;
+}
+input {
+    margin-left: 20px;
+}
+
+label {
+    height: 16px;
+    #font-size: 16px;
+}
+
+input [name="calc"]{
+    top: 20%;
+    float:center;
+    margin-top: 50px;
+    width: -200px;
+    margin-left: -20px;
+    margin: 100 auto;
+}
